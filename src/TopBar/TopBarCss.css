@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.topbar-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  height: 65px;
+  background-color: white;
+  box-shadow: 0px 1px 20px black;
+}
+
+.topbar-left {
+  flex: 6;
+  display: flex;
+  align-items: center;
+  padding: 0 10px 0 10px;
+  /* background-color: rgb(89, 129, 164); */
+}
+
+.topbar-left .header-search-title {
+  font-size: 20px;
+  margin-left: 30px;
+  color: rgb(100, 100, 225);
+}
+
+.topbar-left img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 20px;
+  object-fit: cover;
+}
+
+.topbar-left .header-search-title i {
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin-left: 30px;
+  border: 1px solid rgb(174, 171, 171);
+}
+
+.topbar-left input::placeholder {
+  font-size: 17px;
+  font-weight: bold;
+  color: rgb(100, 100, 225);
+}
+
+.topbar-left input {
+  width: 470px;
+  height: 30px;
+  border: none;
+  outline: none;
+}
+
+/* Css for the Top Bar Center */
+
+.topbar-center {
+  flex: 6;
+  display: flex;
+  align-items: center;
+  padding: 0 10px 0 10px;
+  justify-content: space-between;
+}
+
+.topbar-center .header-title {
+  font-size: 30px;
+}
+
+.topbar-center .header-title i {
+  margin-right: 5px;
+}
+
+.topbar-center span {
+  font-size: 17px;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+@media (max-width: 700px) {
+  .topbar-header {
+    height: 40px;
+  }
+  .topbar-left {
+    flex: 2;
+  }
+
+  .topbar-left .header-search-title i {
+    margin-left: 20px;
+  }
+  .topbar-left .header-search-title {
+    font-size: 10px;
+    margin-left: -20px;
+    padding: 5px 5px;
+  }
+
+  .topbar-left .header-title img {
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+    margin-left: -5px;
+  }
+
+  .topbar-left input {
+    width: 90px;
+    height: 10px;
+  }
+
+  .topbar-left input::placeholder {
+    font-size: 9px;
+  }
+
+  /* Css for the Top Bar Center */
+
+  .topbar-center {
+    flex: 2;
+    padding: 0 5px 0 5px;
+  }
+
+  .topbar-center .header-title i {
+    margin-right: 3px;
+  }
+  .topbar-center .header-title {
+    font-size: 10px;
+    margin-left: -3rem;
+  }
+
+  .topbar-center span {
+    font-size: 6px;
+  }
+}

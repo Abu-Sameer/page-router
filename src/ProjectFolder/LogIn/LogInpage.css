@@ -1,0 +1,223 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.register-main {
+  margin: 10px 10px 10px 40px;
+  margin-top: 70px;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.information-form {
+  color: white;
+}
+
+.register-main fieldset {
+  width: 40%;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: rgb(143, 116, 169);
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.information-form fieldset {
+  width: 100%;
+}
+
+.form-name input {
+  width: 100%;
+  height: 30px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 2px solid rgb(89, 86, 86);
+  padding: 0 10px;
+}
+
+input {
+  outline: none;
+}
+
+.login-gender-dob {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.login-gender-dob .dob {
+  width: 50%;
+  height: 30px;
+  border-radius: 5px;
+  border: 2px solid rgb(89, 86, 86);
+  padding: 0 10px;
+  margin-left: 5px;
+  color: rgb(89, 86, 86);
+}
+
+.gender-relationship-status-body {
+  margin-top: 20px;
+}
+
+.gender-relationship-status {
+  display: flex;
+  justify-content: space-between;
+}
+
+.gender-relationship-status option {
+  text-align: center;
+  color: rgb(89, 86, 86);
+}
+
+.gender-relationship-status select {
+  margin-left: 10px;
+  width: 63%;
+  border-radius: 5px;
+  border: 2px solid rgb(89, 86, 86);
+  padding: 5px 0;
+  outline: none;
+  color: rgb(89, 86, 86);
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.form-address {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.form-address .origin {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-address .origin-town {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-address input {
+  width: 100%;
+  height: 30px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 2px solid rgb(89, 86, 86);
+  padding: 0 10px;
+}
+
+.employment {
+  margin-top: 20px;
+}
+
+.employment .employment-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.employment input {
+  margin-left: 10px;
+}
+
+.nextofkin {
+  margin-top: 20px;
+  margin-bottom: 4rem;
+}
+
+.nextofkin input {
+  width: 100%;
+  height: 30px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 2px solid rgb(89, 86, 86);
+  padding: 0 10px;
+  display: block;
+}
+
+.nextofkindownpart {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.information-form button,
+.information-form .Navlink {
+  padding: 5px 20px;
+  border: 2px solid rgb(89, 86, 86);
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(89, 86, 86);
+  transition: 0.31s;
+  font-size: 15px;
+}
+
+.information-form button:active,
+.information-form .Navlink:hover {
+  scale: 110%;
+}
+
+.information-form button:disabled {
+  opacity: 0.4;
+  scale: 100%;
+}
+
+.information-form .Navlink {
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(89, 86, 86);
+  color: rgb(89, 86, 86);
+}
+
+.show-button {
+  display: flex;
+  align-items: center;
+  margin-top: -40px;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.show-button input {
+  margin-left: 5px;
+}
+
+.check-login {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 700px) {
+  .register-main {
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .register-main fieldset {
+    width: 100%;
+  }
+
+  .gender-relationship-status select {
+    width: 54%;
+  }
+
+  .information-form fieldset {
+    width: 100%;
+  }
+
+  .information-form fieldset legend {
+    font-size: 12px;
+  }
+  .information-form fieldset label {
+    font-size: 11px;
+  }
+
+  .employment-info {
+    width: 105%;
+  }
+}

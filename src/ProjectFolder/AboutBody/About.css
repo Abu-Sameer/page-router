@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.about-container {
+  margin: 10px;
+  margin-top: 75px;
+}
+.about-main {
+  margin-bottom: 50px;
+}
+
+.about-main p::first-letter {
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.about-main span {
+  font-weight: bold;
+  font-size: 17px;
+  text-transform: none;
+  color: rgb(143, 116, 169);
+}
+
+.about-main img {
+  width: 10%;
+  height: 10%;
+  object-fit: cover;
+  border-radius: 5px;
+  float: left;
+  margin-bottom: 5px;
+  margin-right: 10px;
+}
+
+.about-content {
+  margin-top: 20px;
+}
+
+.about-content p::first-letter {
+  font-size: 50px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.about-aim-admin {
+  display: flex;
+  margin-top: 20px;
+  position: relative;
+}
+
+.about-aim {
+  width: 40%;
+}
+
+.about-admin {
+  width: 40%;
+}
+
+.about-aim-admin h2 {
+  color: rgb(143, 116, 169);
+}
+
+.about-aim-admin li {
+  margin: 30px 5px 10px 20px;
+}
+
+.about-aim-admin li::marker {
+  color: rgb(143, 116, 169);
+}
+
+.about-aim-admin img {
+  width: 35rem;
+  height: 48rem;
+  object-fit: cover;
+  margin-top: 20px;
+}
+
+@media (max-width: 700px) {
+  .about-container {
+    margin-top: 45px;
+  }
+
+  .about-main {
+    margin-bottom: 10px;
+  }
+
+  .about-main span {
+    font-size: 15px;
+  }
+  .about-main p {
+    font-size: 14px;
+  }
+  .about-main p::first-letter {
+    font-size: 30px;
+    margin-left: 10px;
+  }
+
+  .about-aim-admin {
+    position: relative;
+    margin-top: 10px;
+  }
+
+  .about-aim,
+  .about-admin {
+    width: 100%;
+  }
+
+  h2 {
+    font-size: 17px;
+  }
+
+  .about-aim-admin li {
+    margin: 10px;
+  }
+
+  .about-aim-admin img {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 12rem;
+    height: 15rem;
+  }
+}
