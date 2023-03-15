@@ -1,0 +1,61 @@
+.h1 h1 {
+  text-align: center;
+  font-family: 'inter', sans-serif;
+}
+
+.bodyMap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-family: 'raleway', sans-serif;
+  font-size: 13px;
+  padding: 15px;
+  background-color: darkblue;
+  margin: 20px 0 20px 0;
+  border-radius: 5px;
+  border: 3px white solid;
+  box-shadow: 5px 5px 5px black;
+  line-height: 20px;
+}
+
+.ima {
+  width: 400px;
+  height: 350px;
+  margin-bottom: 10px;
+  object-fit: cover;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.btn button {
+  padding: 5px 15px;
+  background-color: white;
+  color: darkblue;
+  font-weight: bold;
+  border-radius: 3px;
+  border: none;
+  transition: 0.33s;
+}
+
+.btn button:hover {
+  background-color: blueviolet;
+  color: white;
+  transition: 0.33s;
+}
+
+.btn button:active {
+  scale: 90%;
+}
