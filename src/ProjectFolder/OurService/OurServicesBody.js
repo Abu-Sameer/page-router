@@ -20,7 +20,12 @@ export default function OurServicesBody(props) {
           {props.title}
         </h3>
         <p className={props.isToggle ? 'text' : 'text-dark'}>{props.text}</p>
-        <a href="#cool" className={props.isToggle ? 'link' : 'link-dark'}>
+        <a
+          href="https://abusameerportfolio.netlify.app"
+          target="_blank"
+          rel="noreferrer"
+          className={props.isToggle ? 'link' : 'link-dark'}
+        >
           know more <i className="fas fa-angle-double-right"></i>
         </a>
       </div>

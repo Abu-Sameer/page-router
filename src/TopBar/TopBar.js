@@ -12,10 +12,8 @@ export default function TopBar() {
             <img src={logo} alt="logo" />
           </NavLink>
           <div className="header-search-title">
-            <i className="fas fa-search">
-              {' '}
-              <input type="text" placeholder="search" />
-            </i>
+            <i className="fas fa-search"></i>
+            <input autoFocus type="text" placeholder="search" />
           </div>
         </div>
 
@@ -36,7 +34,7 @@ export default function TopBar() {
             <i className="fas fa-image"></i>
             <span>Gallary</span>
           </NavLink>
-          <NavLink className="header-title" to="loginpage">
+          <NavLink className="header-title" to="registerPage">
             <i className="fa-solid fa-user-pen"></i>
             <span>Register</span>
           </NavLink>

@@ -29,11 +29,11 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
 
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 2,
@@ -41,10 +41,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 3,
@@ -52,10 +52,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 4,
@@ -63,10 +63,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 5,
@@ -74,10 +74,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 6,
@@ -85,10 +85,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 7,
@@ -96,10 +96,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 8,
@@ -107,10 +107,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 9,
@@ -118,10 +118,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 10,
@@ -129,10 +129,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 11,
@@ -140,10 +140,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 12,
@@ -151,10 +151,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 13,
@@ -162,10 +162,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 14,
@@ -173,10 +173,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 15,
@@ -184,10 +184,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 16,
@@ -195,10 +195,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 17,
@@ -206,10 +206,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 18,
@@ -217,10 +217,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 19,
@@ -228,10 +228,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 20,
@@ -239,10 +239,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 21,
@@ -250,10 +250,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 22,
@@ -261,10 +261,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 23,
@@ -272,10 +272,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
   {
     id: 24,
@@ -283,10 +283,10 @@ const projectData = [
     delete: <i className="fas fa-trash"></i>,
     edit: <i className="fas fa-edit"></i>,
     days: '20 days ago',
-    title: 'green villa',
+    title: 'Green Villa',
     author: 'Adesoye Yusuf (Abu-Sameer)',
     content:
-      'borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
+      'Borem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel odio vel purus molestie sodales. Proin tincidunt tellus at nisl porttitor, non aliquet nulla dignissim. Nullam nec eleifend elit, sed porta nibh. In suscipit mollis viverra. Quisque aliquet nisi ut tincidunt auctor.',
   },
 ];
 

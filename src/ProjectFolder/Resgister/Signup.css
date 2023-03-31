@@ -1,0 +1,119 @@
+/* Sign up css */
+
+.signup-main {
+  margin: 10px 10px 10px 10px;
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup-main fieldset {
+  width: 30%;
+  background-color: rgb(143, 116, 169);
+  padding: 20px;
+  border-radius: 5px;
+  border: 2px solid rgb(0, 0, 0);
+  color: white;
+}
+
+legend {
+  color: rgb(0, 0, 0);
+}
+
+.signup {
+  width: 100%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup-data {
+  display: flex;
+  flex-direction: column;
+}
+
+.signup-data input {
+  width: 100%;
+  height: 30px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 2px solid rgb(89, 86, 86);
+  padding: 0 10px;
+  outline: none;
+}
+
+.signup button {
+  padding: 5px 20px;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  background-color: white;
+  color: rgb(143, 116, 169);
+  transition: 0.21s;
+  font-size: 15px;
+  display: block;
+}
+
+.signup button:active {
+  scale: 95%;
+}
+
+fieldset label {
+  font-size: 14px;
+}
+
+.checkPassword {
+  font-size: 14px;
+  margin: -10px 0 10px 5px;
+}
+
+.signup-data span {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup-data .check {
+  width: auto;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  height: auto;
+}
+
+.signup-details-output {
+  margin-top: 20px;
+  background-color: rgb(143, 116, 169);
+  padding: 10px 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.signup-details-output h3 {
+  margin-bottom: 5px;
+  color: navy;
+  text-align: center;
+}
+.signup-details-output ul {
+  font-size: 15px;
+  line-height: 20px;
+  margin-left: 20px;
+}
+
+@media screen and (max-width: 1024px) {
+  .signup-main fieldset {
+    width: 70%;
+  }
+}
+
+/* ======  Small device like phone  ====== */
+
+@media screen and (max-width: 600px) {
+  .signup-main fieldset {
+    width: 100%;
+  }
+}

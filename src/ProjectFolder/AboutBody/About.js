@@ -44,7 +44,7 @@ export default function About() {
         </p>
         <div className="about-content">
           <p>
-            <span>company background:</span> Fusce auctor urna ac semper
+            <span>Company background:</span> Fusce auctor urna ac semper
             dapibus. Cras maximus viverra gravida. Nullam vehicula lacus gravida
             neque aliquet dictum. Nullam eget diam at ipsum maximus sagittis sed
             id eros. In interdum pulvinar quam nec mattis. Morbi sed malesuada
@@ -64,81 +64,83 @@ export default function About() {
           </p>
         </div>
         <div className="about-aim-admin">
-          <div className="about-aim">
-            <h2>Company Aims:</h2>
-            <ul>
-              <li>
-                {' '}
-                Nullam vehicula lacus gravida neque aliquet dictum. Nullam eget
-                diam at ipsum maximus sagittis sed id eros. In interdum pulvinar
-                quam nec mattis. Morbi sed malesuada augue.
-              </li>
-              <li>
-                {' '}
-                Nullam vehicula lacus gravida neque aliquet dictum. Nullam eget
-                diam at ipsum maximus sagittis sed id eros. In interdum pulvinar
-                quam nec mattis. Morbi sed malesuada augue.
-              </li>
-              <li>
-                {' '}
-                Nullam vehicula lacus gravida neque aliquet dictum. Nullam eget
-                diam at ipsum maximus sagittis sed id eros. In interdum pulvinar
-                quam nec mattis. Morbi sed malesuada augue.
-              </li>
-              <li>
-                {' '}
-                Nullam vehicula lacus gravida neque aliquet dictum. Nullam eget
-                diam at ipsum maximus sagittis sed id eros. In interdum pulvinar
-                quam nec mattis. Morbi sed malesuada augue.
-              </li>
-              <li>
-                {' '}
-                Nullam vehicula lacus gravida neque aliquet dictum. Nullam eget
-                diam at ipsum maximus sagittis sed id eros. In interdum pulvinar
-                quam nec mattis. Morbi sed malesuada augue.
-              </li>
-              <li>
-                {' '}
-                Nullam vehicula lacus gravida neque aliquet dictum. Nullam eget
-                diam at ipsum maximus sagittis sed id eros. In interdum pulvinar
-                quam nec mattis. Morbi sed malesuada augue.
-              </li>
-            </ul>
-          </div>
-          <div className="about-admin">
-            <h2>Requirements and skills: </h2>
+          <div className="aim-admin">
+            <div className="about-aim">
+              <h2>Company Aims:</h2>
+              <ul>
+                <li>
+                  {' '}
+                  Nullam vehicula lacus gravida neque aliquet dictum. Nullam
+                  eget diam at ipsum maximus sagittis sed id eros. In interdum
+                  pulvinar quam nec mattis. Morbi sed malesuada augue.
+                </li>
+                <li>
+                  {' '}
+                  Nullam vehicula lacus gravida neque aliquet dictum. Nullam
+                  eget diam at ipsum maximus sagittis sed id eros. In interdum
+                  pulvinar quam nec mattis. Morbi sed malesuada augue.
+                </li>
+                <li>
+                  {' '}
+                  Nullam vehicula lacus gravida neque aliquet dictum. Nullam
+                  eget diam at ipsum maximus sagittis sed id eros. In interdum
+                  pulvinar quam nec mattis. Morbi sed malesuada augue.
+                </li>
+                <li>
+                  {' '}
+                  Nullam vehicula lacus gravida neque aliquet dictum. Nullam
+                  eget diam at ipsum maximus sagittis sed id eros. In interdum
+                  pulvinar quam nec mattis. Morbi sed malesuada augue.
+                </li>
+                <li>
+                  {' '}
+                  Nullam vehicula lacus gravida neque aliquet dictum. Nullam
+                  eget diam at ipsum maximus sagittis sed id eros. In interdum
+                  pulvinar quam nec mattis. Morbi sed malesuada augue.
+                </li>
+                <li>
+                  {' '}
+                  Nullam vehicula lacus gravida neque aliquet dictum. Nullam
+                  eget diam at ipsum maximus sagittis sed id eros. In interdum
+                  pulvinar quam nec mattis. Morbi sed malesuada augue.
+                </li>
+              </ul>
+            </div>
+            <div className="about-admin">
+              <h2>Requirement & skills: </h2>
 
-            <ul>
-              <li>
-                Proven experience as an office administrator, office assistant
-                or relevant role{' '}
-              </li>
-              <li>Outstanding communication and interpersonal abilities</li>
-              <li>Excellent organizational and leadership skills</li>
-              <li>
-                Familiarity with office management procedures and basic
-                accounting principles
-              </li>
-              <li>
-                {' '}
-                Excellent knowledge of MS Office and office management software
-                (ERP etc.)
-              </li>
-              <li>
-                {' '}
-                Qualifications in secretarial studies will be an advantage
-              </li>
-              <li>
-                High school diploma; BSc/BA in office administration or relevant
-                field is preferred
-              </li>
-              <li>
-                {' '}
-                gullam vehicula lacus gravida neque aliquet dictum. Nullam eget
-                diam at ipsum maximus sagittis sed id eros. In interdum pulvinar
-                quam nec mattis. Morbi sed malesuada.
-              </li>
-            </ul>
+              <ul>
+                <li>
+                  Proven experience as an office administrator, office assistant
+                  or relevant role{' '}
+                </li>
+                <li>Outstanding communication and interpersonal abilities</li>
+                <li>Excellent organizational and leadership skills</li>
+                <li>
+                  Familiarity with office management procedures and basic
+                  accounting principles
+                </li>
+                <li>
+                  {' '}
+                  Excellent knowledge of MS Office and office management
+                  software (ERP etc.)
+                </li>
+                <li>
+                  {' '}
+                  Qualifications in secretarial studies will be an advantage
+                </li>
+                <li>
+                  High school diploma; BSc/BA in office administration or
+                  relevant field is preferred
+                </li>
+                <li>
+                  {' '}
+                  gullam vehicula lacus gravida neque aliquet dictum. Nullam
+                  eget diam at ipsum maximus sagittis sed id eros. In interdum
+                  pulvinar quam nec mattis. Morbi sed malesuada.
+                </li>
+              </ul>
+            </div>
           </div>
           <img src={aa8} alt="cool imag" />
         </div>

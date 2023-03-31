@@ -3,7 +3,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  text-transform: capitalize;
 }
 
 body {
@@ -12,6 +11,7 @@ body {
 
 .ourservice-container {
   margin-top: 65px;
+  text-transform: capitalize;
 }
 
 .head {
@@ -171,36 +171,26 @@ body {
   font-weight: bold;
 }
 
-@media (max-width: 700px) {
-  .head {
-    display: flex;
-    justify-content: space-between;
-    position: relative;
-  }
-  .titleTog {
-    position: absolute;
-    right: 10%;
-    font-size: 20px;
-  }
+/* ======  Small device like phone  ====== */
 
-  .titletogged {
-    position: absolute;
-    right: 10%;
-    font-size: 20px;
-  }
-
-  .body {
-    font-size: 75%;
-  }
-
+@media screen and (max-width: 1024px) {
   .card-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    grid-gap: 7px;
-    padding: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
   }
-
+}
+@media screen and (max-width: 600px) {
   .ourservice-container {
     margin-top: 45px;
+  }
+  .head h1 {
+    position: absolute;
+    right: 10%;
+    font-size: 20px;
+  }
+
+  .card p {
+    line-height: 1.5rem;
+    font-size: 17px;
   }
 }
