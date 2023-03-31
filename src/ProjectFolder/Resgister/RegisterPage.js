@@ -46,7 +46,7 @@ export default function RegisterPage() {
   return (
     <div>
       <div className="register-main">
-        {!show ? (
+        {show ? (
           <fieldset>
             <legend className="leg">Fill your full details</legend>
             <div className="information-form">
