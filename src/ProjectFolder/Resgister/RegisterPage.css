@@ -11,6 +11,16 @@
   align-items: center;
 }
 
+.register-main legend {
+  color: white;
+}
+
+.register-main .leg {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: bold;
+}
+
 input,
 select {
   width: 100%;
@@ -35,8 +45,8 @@ fieldset label {
   width: 50%;
   padding: 20px;
   border-radius: 5px;
-  background-color: rgb(143, 116, 169);
-  border: 2px solid rgb(0, 0, 0);
+  background-color: darkblue;
+  border: 2px solid white;
 }
 
 .information-form fieldset {
@@ -146,7 +156,7 @@ fieldset label {
 }
 
 .register-data div {
-  border: 2px solid black;
+  border: 2px solid white;
   width: 100%;
   height: 50%;
   margin: 1rem 0;
@@ -157,38 +167,6 @@ fieldset label {
 .register-data p {
   line-height: 1.5rem;
 }
-
-/* 
-@media (max-width: 700px) {
-  .register-main {
-    margin-top: 45px;
-    display: flex;
-    justify-content: center;
-  }
-
-  .register-main fieldset {
-    width: 100%;
-  }
-
-  .gender-relationship-status select {
-    width: 54%;
-  }
-
-  .information-form fieldset {
-    width: 100%;
-  }
-
-  .information-form fieldset legend {
-    font-size: 12px;
-  }
-  .information-form fieldset label {
-    font-size: 11px;
-  }
-
-  .employment-info {
-    width: 105%;
-  }
-} */
 
 @media screen and (max-width: 1024px) {
   .register-main {

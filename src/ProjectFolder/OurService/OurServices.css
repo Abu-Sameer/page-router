@@ -180,6 +180,10 @@ body {
   }
 }
 @media screen and (max-width: 600px) {
+  .card-container {
+    grid-template-columns: 1fr;
+  }
+
   .ourservice-container {
     margin-top: 45px;
   }
